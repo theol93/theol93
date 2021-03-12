@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Dmitry
+### Hi there, my name is Dmitry
 ####  REACT / JS / HTML / CSS / Front End Developer
 
 - 🔭 I’m currently working on my React app for Last-FM 
