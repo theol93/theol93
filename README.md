@@ -1,7 +1,7 @@
 ### Hi there, my name is Dmitry
 ####  REACT / JS / HTML / CSS / Front End Developer
 
-(https://github.com/theol93/theol93/blob/main/lastfm-photo.png)
+![last project](https://github.com/theol93/theol93/blob/main/lastfm-photo.png)
 
 - 🔭 I’m currently working on my React app for Last-FM 
 - 🌱 I’m currently learning React + Redux 
