@@ -2,7 +2,10 @@
 ####  REACT / JS / HTML / CSS / Front End Developer
 
 ![last project](https://github.com/theol93/theol93/blob/main/lastfm-photo.png)
-
+ 
+ This project: https://theol.herokuapp.com/
+ Code: https://github.com/theol93/LASTFM-REACT
+ 
 - 🔭 I’m currently working on my React app for Last-FM 
 - 🌱 I’m currently learning React + Redux 
 
