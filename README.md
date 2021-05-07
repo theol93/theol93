@@ -6,6 +6,8 @@
  This project: https://theol.herokuapp.com/
  Code: https://github.com/theol93/LASTFM-REACT
  
+ Simple todo application for learning typescript, watch there - https://todotheol.herokuapp.com/
+ 
 - 🔭 I’m finish working on my app for Last-FM (React + Redux, Material UI) 
 - 🌱 Now i’m learning Typescript 
 
